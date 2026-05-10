@@ -9,9 +9,9 @@ from io import BytesIO
 # --- Configuration and Environment Variables ---
 
 # Securely fetch your secret tokens and admin ID from Render's environment variables.
-BOT_TOKEN = os.environ.get('BOT_TOKEN')
-HF_TOKEN = os.environ.get('HF_TOKEN')
-ADMIN_USER_ID = os.environ.get('ADMIN_USER_ID') # Your numeric Telegram User ID
+BOT_TOKEN = os.environ.get('8602349973:AAGYu_F9qQaxVxCwHWW4KDkR5gEvNcL3Zc8')
+HF_TOKEN = os.environ.get('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')
+ADMIN_USER_ID = os.environ.get('6592143538') # Your numeric Telegram User ID
 
 # --- Persistent Storage Configuration for Render Disk ---
 
