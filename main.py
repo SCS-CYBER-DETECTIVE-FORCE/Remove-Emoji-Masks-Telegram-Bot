@@ -9,7 +9,7 @@ from io import BytesIO
 # --- Configuration and Environment Variables ---
 
 # Securely fetch your secret tokens and admin ID from Render's environment variables.
-BOT_TOKEN = os.environ.get('BOT_TOKEN)
+BOT_TOKEN = os.environ.get('BOT_TOKEN')
 HF_TOKEN = os.environ.get('HF_TOKEN')
 ADMIN_USER_ID = os.environ.get('ADMIN_USER_ID') # Your numeric Telegram User ID
 
