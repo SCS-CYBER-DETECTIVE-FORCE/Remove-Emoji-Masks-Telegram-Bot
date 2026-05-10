@@ -2,4 +2,3 @@ pyTelegramBotAPI
 flask
 requests
 gunicorn
-telebot
